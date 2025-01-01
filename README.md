@@ -1,7 +1,7 @@
 # AI AGENT
 
 ## Overview
-**AI AGENT** is a Flask-based web application that leverages a fine-tuned GPT-2 model to provide intelligent and concise responses to user queries. The project demonstrates the integration of natural language processing with a user-friendly web interface. It is deployed using **AWS ECS** for scalable and reliable cloud-based execution.
+**AI AGENT** is a web application that leverages a fine-tuned GPT-2 model to provide intelligent and concise responses to user queries. The project demonstrates the integration of natural language processing with a user-friendly web interface. It is deployed using **AWS ECS** for scalable and reliable cloud-based execution.
 
 ---
 
@@ -142,6 +142,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For inquiries or contributions, please reach out to:
 - **Email**: sarathk1307@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
+- **GitHub**: https://github.com/saisarath13/
 ```
 
