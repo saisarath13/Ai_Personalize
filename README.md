@@ -22,7 +22,7 @@
 ### Steps to Set Up Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ai-agent.git
+   git clone https://github.com/saisarath13/ai-agent.git
    cd ai-agent
    ```
 
